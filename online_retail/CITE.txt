@@ -1,0 +1,2 @@
+"Online_Retail.csv" is a file that has been converted into CSV format from the Excel file published on the following website: 
+D. Chen. "Online Retail," UCI Machine Learning Repository, 2015. [Online]. Available: https://doi.org/10.24432/C5BW33.
